@@ -1,0 +1,4 @@
+-check gamemode
+-check classfinders
+-pay attention to cdo constructor errors, see if they are red flags(Sometimes the classfinders matter)
+-rewrite constructor finds to be blueprint variables to set(when you have the time)
